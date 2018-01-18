@@ -46,6 +46,7 @@ namespace NameRecorder
         private void mainViewPanel_Paint(object sender, PaintEventArgs e)
         {
             mainViewPanel.AutoScroll = true;
+            mainViewPanel.Visible = false;
 
         }
 
@@ -63,6 +64,8 @@ namespace NameRecorder
         {
 
         }
+
+
     }
 
     class DataManager
@@ -79,9 +82,10 @@ namespace NameRecorder
         {
             createNewDatabase();
             connectToDatabase();
-            createTable();
+            createTables();
             fillTable();
             printNames();
+            
         }
 
         // Creates an empty database file
@@ -98,7 +102,7 @@ namespace NameRecorder
         }
 
         // Create tables
-        void createTable()
+        void createTables()
         {
             //to do
             string sqluniqname = "create table unique_name (reference_name text, unique_name_id int)";
@@ -144,6 +148,49 @@ namespace NameRecorder
             Console.ReadLine();
 
         }
+
+        // method to add recorder
+        void addRecorder(string name)
+        {
+            // to do
+        }
+
+        // method to add recording
+        void addRecording(int nameID, int sample_rate, int recorderVoiceID, string filepath)
+        {
+            // to do
+        }
+
+        void addAlternateNameSpelling(int parentNameID, string name, bool isLastName)
+        {
+            // to do
+        }
+
+        void adduniquePronunciation(string name)
+        {
+            // to do
+        }
+
+        void getAllPronunciations()
+        {
+            //to do
+        }
+
+        void getAllRecordingsForName(int name_id)
+        {
+            // to do
+        }
+
+        void getRecorderInfo(int recorder_id)
+        {
+            // to do
+        }
+
+        void getAllNamesWitParent(int parent_name_id)
+        {
+            // to do
+        }
+
 
     }
 }

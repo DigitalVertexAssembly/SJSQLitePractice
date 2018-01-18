@@ -236,6 +236,8 @@
             this.mainViewPanel.Name = "mainViewPanel";
             this.mainViewPanel.Size = new System.Drawing.Size(745, 618);
             this.mainViewPanel.TabIndex = 3;
+            this.mainViewPanel.Visible = false;
+            this.mainViewPanel.Paint += new System.Windows.Forms.PaintEventHandler(this.mainViewPanel_Paint);
             // 
             // Nrmain
             // 
