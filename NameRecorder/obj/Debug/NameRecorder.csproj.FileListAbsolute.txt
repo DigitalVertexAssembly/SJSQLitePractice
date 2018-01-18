@@ -1,0 +1,12 @@
+C:\Users\sabrinaj\Desktop\Visual Studios Projects\NameRecorder\NameRecorder\bin\Debug\NameRecorder.exe.config
+C:\Users\sabrinaj\Desktop\Visual Studios Projects\NameRecorder\NameRecorder\bin\Debug\NameRecorder.exe
+C:\Users\sabrinaj\Desktop\Visual Studios Projects\NameRecorder\NameRecorder\bin\Debug\NameRecorder.pdb
+C:\Users\sabrinaj\Desktop\Visual Studios Projects\NameRecorder\NameRecorder\obj\Debug\NameRecorder.csprojResolveAssemblyReference.cache
+C:\Users\sabrinaj\Desktop\Visual Studios Projects\NameRecorder\NameRecorder\obj\Debug\NameRecorder.Properties.Resources.resources
+C:\Users\sabrinaj\Desktop\Visual Studios Projects\NameRecorder\NameRecorder\obj\Debug\NameRecorder.csproj.GenerateResource.Cache
+C:\Users\sabrinaj\Desktop\Visual Studios Projects\NameRecorder\NameRecorder\obj\Debug\NameRecorder.csproj.CoreCompileInputs.cache
+C:\Users\sabrinaj\Desktop\Visual Studios Projects\NameRecorder\NameRecorder\obj\Debug\NameRecorder.exe
+C:\Users\sabrinaj\Desktop\Visual Studios Projects\NameRecorder\NameRecorder\obj\Debug\NameRecorder.pdb
+C:\Users\sabrinaj\Desktop\Visual Studios Projects\NameRecorder\NameRecorder\obj\Debug\NameRecorder.Nrmain.resources
+C:\Users\sabrinaj\Desktop\Visual Studios Projects\NameRecorder\NameRecorder\bin\Debug\System.Data.SQLite.dll
+C:\Users\sabrinaj\Desktop\Visual Studios Projects\NameRecorder\NameRecorder\bin\Debug\System.Data.SQLite.xml
